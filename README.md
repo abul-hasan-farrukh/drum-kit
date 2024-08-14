@@ -1,1 +1,3 @@
-# drum-kit
+# Drum Kit 
+
+A game that allows user to play different drum beats...
